@@ -18,6 +18,6 @@ Le projet est organisé en plusieurs classes Java et fichiers C :
 - sequentiel.c et file_message.c : fichiers backend pour le calcul avec IPC.
 - Fichiers .txt pour le transfert de données entre frontend et backend.
 
-  ![Calculette HPC](C:\Users\User\Desktop\Master\Semestre 2\Scripting Shell et Programmation Système\Projet_Fin_Module\2.png)
+  ![Calculette HPC](https://github.com/soufyan-laarif/Calculette-HPC/blob/main/Calculette%20HPC.PNG)
 
 
